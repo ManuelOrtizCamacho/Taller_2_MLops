@@ -66,6 +66,11 @@ Desde telefono
 ![image](https://github.com/user-attachments/assets/539e43c5-ef54-4124-80bc-a4e8e52ed45b)
 
 
+![image](https://github.com/user-attachments/assets/2958f385-4cbd-48ca-8070-b5d034bd5b3c)
+
+
+
+
 
 
 
