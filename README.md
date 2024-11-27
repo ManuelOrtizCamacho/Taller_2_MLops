@@ -68,6 +68,10 @@ Desde telefono
 
 ![image](https://github.com/user-attachments/assets/2958f385-4cbd-48ca-8070-b5d034bd5b3c)
 
+![image](https://github.com/user-attachments/assets/258c1fa9-baa9-45da-b5b6-7fab903a19e3)
+
+![image](https://github.com/user-attachments/assets/43b4fc6f-7779-436f-a010-de3675772846)
+
 
 
 
