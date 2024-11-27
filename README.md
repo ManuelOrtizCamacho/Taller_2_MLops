@@ -20,8 +20,8 @@ El Coeficiente de Determinación (R²) mide la proporción de la variabilidad en
 
 Con estas metricas se eleguio el el modelo Gradient Boosting Regressor (GBR) donde:
 
-El modelo presenta el menor MAE (0.1477), lo que indica que sus predicciones están, en promedio, más cerca de los valores reales.
-Esto se traduce en resultados más exactos y útiles para la toma de decisiones y su R² (0.9551) es el más alto, lo que significa que el modelo explica el 95.51% de la variabilidad de los datos.
+El modelo presenta el menor MAE (0.2750), lo que indica que sus predicciones están, en promedio, más cerca de los valores reales.
+Esto se traduce en resultados más exactos y útiles para la toma de decisiones y su R² (0.7356) es el más alto, lo que significa que el modelo explica el 73.56% de la variabilidad de los datos.
 Esto sugiere que el modelo tiene un excelente ajuste a los datos y puede generalizar bien bajo condiciones similares.
 
 
