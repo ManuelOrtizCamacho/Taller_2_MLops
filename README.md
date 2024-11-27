@@ -61,8 +61,9 @@ Optimizar estrategias pedagógicas basadas en predicciones confiables.
 imagenes del la API
 
 Desde telefono 
+
 ![image](https://github.com/user-attachments/assets/539e43c5-ef54-4124-80bc-a4e8e52ed45b)
-desde pc 
+
 
 
 
