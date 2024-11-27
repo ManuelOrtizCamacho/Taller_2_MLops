@@ -56,6 +56,7 @@ El modelo Gradient Boosting Classifier ofrece resultados sólidos y equilibrados
 
 Identificar estudiantes con bajo rendimiento para ofrecer apoyo.
 Optimizar estrategias pedagógicas basadas en predicciones confiables.
+Automatizar procesos de análisis académico.
 
 
 imagenes del la API
@@ -70,5 +71,4 @@ Desde telefono
 
 
 
-Automatizar procesos de análisis académico.
    
